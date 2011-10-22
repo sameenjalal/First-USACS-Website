@@ -1,0 +1,21 @@
+<events>
+    <event>
+        <title> Open Source Presentation </title>
+        <date> December 3rd, 2010 </date>
+        <location> BCC Room 120 ABC </location>
+        <start_time> 7:00 PM </start_time>
+        <end_time> 9:00 PM </end_time>
+
+        <description> <![CDATA[ A panel of speakers with experience in Open Source Software will be talking about some of the Open Source Projects they've worked on. We will have representation from <a href="http://en.wikipedia.org/wiki/Fedora"> Fedora </a>, <a href="http://en.wikipedia.org/wiki/phpBB"> phpBB </a>, <a href="http://en.wikipedia.org/wiki/Scummvm"> ScummVM </a>, Our very own <a href="http://sakai.rutgers.edu"> Sakai </a>, <a href="http://en.wikipedia.org/wiki/Apache"> Apache </a> and <a href="http://oss.rutgers.edu/"> Open Systems Solutions </a>. This will be a great opportunity to learn more about the Open Source Movement, and get information to start working on an Open Source Project of your own. <br /><b>Free Burritos from Moe's will be provided as refreshments. </b> ]]> </description>
+
+    </event>
+
+    <event>
+        <title> Hari Movie Night </title>
+        <date> December 14th, 2010 </date>
+        <location> Hill 252 </location>
+        <start_time> 6:00 PM </start_time>
+        <end_time> 9:00 PM </end_time>
+
+        <description> asdfasdf </description>
+</events>
